@@ -70,3 +70,6 @@ There are many admin functions available such as
 5. Add/Edit/Delete Suppliers
 6. Add/Delete Users and Groups
 7. Change Password etc
+
+## Model diagaram for the kitchen module
+![plantuml-Restaurant_Application___Kitchen_module_model.png](plantuml-Restaurant_Application___Kitchen_module_model.png)
