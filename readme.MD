@@ -1,4 +1,4 @@
-# Kitchen Application Documentation
+# Restaurant Management Application Documentation
 
 This document provides a high-level overview of the views within the Kitchen application.
 
