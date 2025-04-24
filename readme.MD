@@ -57,3 +57,16 @@ This document provides a high-level overview of the views within the Kitchen app
 *   **Purpose:** Internal helper function called by `accept_order`. Takes a validated `OrderItemFormSet`. Checks if any required raw ingredients for the submitted menu items are below their defined reorder level in the `Inventory`. Returns a list of names of menu items potentially affected by low stock.
 
 ---
+
+
+## Admin Views
+
+There are many admin functions available such as 
+
+1.  Add/Edit/Delete Inventory
+2. Add/Edit/Delete Menu
+3. Add/Edit/Delete Recipe
+4. Add/Edit/Delete Semi prepared Inventory (Batter etc)
+5. Add/Edit/Delete Suppliers
+6. Add/Delete Users and Groups
+7. Change Password etc
